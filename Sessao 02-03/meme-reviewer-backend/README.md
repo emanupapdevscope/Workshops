@@ -42,4 +42,4 @@
 
     ```ps
     flask run
-    ```
+    ```docker cumpose up
